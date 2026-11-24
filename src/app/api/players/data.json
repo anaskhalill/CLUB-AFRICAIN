@@ -1,0 +1,5652 @@
+[
+    {
+        "name": "Abdelmouhib Chamakh",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "450K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Yeferni",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wassim Maghzaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "10K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Saada",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Dries Arfaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia/Belgium",
+        "marketValue": "-",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Ben Abda",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Bouabid",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Toufik Cherifi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Algeria",
+        "marketValue": "150K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussema Shili",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houssem Ben Ali",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wills Tene Nkingne",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Cameroon/France",
+        "marketValue": "100K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Zaalouni",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "650K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houssem Hassen Romdhane",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Ghrissi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Charfeddine Ouni",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Sadok Mahmoud",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moataz Zemzemi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "550K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Osama Elsharimi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Libya",
+        "marketValue": "300K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Saidou Khan",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Gambia/England",
+        "marketValue": "150K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Sghaier",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "450K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Alain Kanté",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Burkina Faso",
+        "marketValue": "-",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Khadhraoui",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "800K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Aït Malek",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia/France",
+        "marketValue": "800K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymen Harzi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussema Bouguerra",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fahad Al Mesmari",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Libya",
+        "marketValue": "175K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Phillippe Kinzumbi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "DR Congo",
+        "marketValue": "550K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bassem Srarfi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "450K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Chaouat",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "850K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sadok Kadida",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Club Africain",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bechir Ben Said",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "33",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amanallah Memmiche",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Sedki Debchi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mokhtar Ifaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Tougai",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Algeria",
+        "marketValue": "1.30M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Meriah",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "1.20M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Jelassi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aziz Koudhai",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Ben Hamida",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nidhal Laifi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "550K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Elies Araar Fernandez",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia/France",
+        "marketValue": "-",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ben Ali",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "650K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Dräger",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia/Germany",
+        "marketValue": "250K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Elyas Bouzaiene",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Sweden/Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ibrahima Keita",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Mauritania/Mali",
+        "marketValue": "150K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moez Haj Ali",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Khalil Guenichi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "600K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Ouahabi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houssem Tka",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "1.20M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Onuche Ogbelu",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Nigeria",
+        "marketValue": "1.00M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Rafia",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia/France",
+        "marketValue": "900K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Wael Derbali",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia/France",
+        "marketValue": "550K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zakaria El Ayeb",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chiheb Jebali",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "1.30M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdramane Konaté",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Ivory Coast",
+        "marketValue": "850K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Mouhli",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Belgium/Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aziz Fellah",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youcef Belaïli",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "33",
+        "nationality": "Algeria",
+        "marketValue": "1.50M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Msakni",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jack Diarra",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Burkina Faso",
+        "marketValue": "200K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Haythem Dhaou",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yan Sasse",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Brazil",
+        "marketValue": "1.70M €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kouceila Boualia",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Algeria",
+        "marketValue": "600K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Koussay Maacha",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Florian Danho",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "France/Ivory Coast",
+        "marketValue": "700K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Achref Jabri",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "600K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aboubacar Diakité",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Mali",
+        "marketValue": "75K €",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bubacarr Suso",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Gambia",
+        "marketValue": "-",
+        "previousClub": "Espérance Sportive de Tunis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymen Dahmen",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "800K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Gaaloul",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "36",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ali Jamia",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kévin Mondeko",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "DR Congo",
+        "marketValue": "450K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Mathlouthi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "33",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Habchia",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chaouki Ben Khader",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Ben Ali",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdessalem Akid",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Froukh",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hichem Baccar",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "700K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ali Maâloul",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "36",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayen Derbeli",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Salah Mhadhebi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hasamadou Ouédraogo",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Burkina Faso",
+        "marketValue": "400K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ammar Taifour",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Sudan/USA",
+        "marketValue": "200K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Sekkouhi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Trabelsi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayen Chaaben",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Travis Mutyaba",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Uganda",
+        "marketValue": "300K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Absi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Becha",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Willy Onana",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Cameroon",
+        "marketValue": "100K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nour Karoui",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iyed Belwafi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Aidi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Boua Diarra",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Mali",
+        "marketValue": "-",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Omar Ben Ali",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "450K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Emmanuel Ogbole",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Nigeria",
+        "marketValue": "250K €",
+        "previousClub": "Club Sportif Sfaxien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Noureddine Farhati",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "650K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Atef Dkhili",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Braiek",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chamseddine Jrid",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Ftouhi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Marouane Sahraoui",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia/France",
+        "marketValue": "700K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Skander Sghaier",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "450K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mounir Jelassi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aziz Saihi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Arfaoui",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hedi Khalfa",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wael Ouerghemmi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Iyadh Riahi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yusuf Touré",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Ivory Coast",
+        "marketValue": "450K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Smaali",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia/France",
+        "marketValue": "300K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salifou Tapsoba",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Burkina Faso",
+        "marketValue": "75K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Obaid Chabbi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amine Jaziri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Papa Diop",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Senegal",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mehdi Maghzaoui",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rafaeddine Riahi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amath Ndaw",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Senegal",
+        "marketValue": "600K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Boubacar Camara",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Senegal",
+        "marketValue": "150K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Khemissi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abderrahman Hanchi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moncef Gharbi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Saafi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Dhaflaoui",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia/Denmark",
+        "marketValue": "175K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amadou N'Diaye",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Senegal",
+        "marketValue": "550K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amine Haboubi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amir Jaouadi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Riad Ouafi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia/France",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mazen Ben Daoud",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Godswill Emmanuel Odinakachi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "Union Sportive de Ben Guerdane",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdessalem Hallaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "36",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Slimane",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayen Besbes",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Naude Zeguei",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Ivory Coast",
+        "marketValue": "650K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Miladi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Raed Chikhaoui",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Herch",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayman Ben Mohamed",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia/Ireland",
+        "marketValue": "250K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Raed Bouchniba",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "550K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Azzouz",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abderrahman Bouzganda",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ousmane Diané",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Guinea",
+        "marketValue": "600K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Luqman Gilmore",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Nigeria",
+        "marketValue": "200K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Behaja Tsirava",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Madagascar",
+        "marketValue": "-",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Dridi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salah Barhoumi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chaïm El Djebali",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia/France",
+        "marketValue": "75K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mehdi Ganouni",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia/France",
+        "marketValue": "450K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nassim Douihech",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Boulila",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adnene Yaakoubi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malcolm Elhmidi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia/France",
+        "marketValue": "75K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Amri",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Samy Bouali",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Algeria",
+        "marketValue": "-",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salem Bizid",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Abdelli",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia/France",
+        "marketValue": "350K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fakhreddine Ben Youssef",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ibrahim Gadiaga",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Mali",
+        "marketValue": "75K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ibrahim Souissi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "15K €",
+        "previousClub": "Etoile Sportive du Sahel",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sabri Ben Hessen",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Rayane Landolsi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Alphonce Omija",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Kenya",
+        "marketValue": "300K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nassim Hnid",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houssem Dagdoug",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghofrane Naouali",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Najeh Ferjani",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wajdi Kechrida",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia/France",
+        "marketValue": "450K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Horchani",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Slim Khadhraoui",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Cedrik Gbo",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Ivory Coast",
+        "marketValue": "400K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mokhles Chouchane",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zineddine Benahmed",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Algeria",
+        "marketValue": "100K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Ben Amor",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "33",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moussa Diawara",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Guinea",
+        "marketValue": "-",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Bouslama",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Ouertani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Jebali",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Jebali",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Abid",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fedi Ben Choug",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia/France",
+        "marketValue": "400K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Raïd Najjar",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "France/Tunisia",
+        "marketValue": "-",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Rayane Anane",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Maher Ben Seghaier",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oumar Bah",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Mali",
+        "marketValue": "-",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Cristo",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "600K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zinedine Boutmène",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Algeria",
+        "marketValue": "250K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nizar Smichi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moussa Senghor",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Senegal",
+        "marketValue": "175K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Saïd Benmazouz",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Algeria",
+        "marketValue": "125K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Yassine Chaabani",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Olympique Beja",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Montasser Essid",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussema Hanzouli",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Seif Nahdi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Louay Hsairi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Dakhlaoui",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Haroune Kouki",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sami Hammami",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Samer Marouani",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kabil Othmani",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chigozie Eruchukwu",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Nigeria",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Omar Zouaghi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sabeur Ben Messaoud",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moustapha Souissi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Mgannem",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hafedh Bouhouch",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Ben Hassine",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aly Casmir Chinonso",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Nigeria",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Nahdi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salem Bahri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Ben Omrane",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Ben Hamida",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Haythem Khemissi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Ben Amor",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Mahdouani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nafaa Lamine",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iheb Ben Rejeb",
+        "position": "Left Midfielder",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Souhaieb Abdelli",
+        "position": "Left Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Anouar Jouini",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Saber Hammami",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Assil Jaziri",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia/France",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Askri",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ouday Belhaj",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Jammel",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Seif Saadaoui",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Touati",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chiheb Zoughlami",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Lionel Mondesir",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Ivory Coast",
+        "marketValue": "-",
+        "previousClub": "AS Soliman",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Ben Cherifia",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sadok Yeddes",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Yassine Mechri",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kossai Tlili",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yasser Dinari",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Bahri",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fares Meskini",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hassine",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Irenée Togbedji Glele",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Benin",
+        "marketValue": "125K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Anis Lakhel",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Soltani",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Karim Messai",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Dinari",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ited Fajraoui",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Raed Fadaa",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Eric Kouassi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Ivory Coast",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Muhammed Diame Pape",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Senegal",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Souhail Bouani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Khelifi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Morched Faraa",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "10K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Skander Amor",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jeffrey André Nyobe",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Cameroon",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jaouher Dinari",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Mbarki",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chérif Bodian",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Senegal",
+        "marketValue": "300K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Islem Gasmi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sory",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Guinea",
+        "marketValue": "100K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amine Knaissi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bacem Hajji",
+        "position": "Right Midfielder",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ismail Hermes",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia/Italy",
+        "marketValue": "50K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Messaoui",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Naby Sylla",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Guinea",
+        "marketValue": "275K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Brandon Nana",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Cameroon",
+        "marketValue": "75K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Mnasri",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "10K €",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Drissa Traoré",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Mali",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Boukhris",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "US Tataouine",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Seifeddine Charfi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "500K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Ghanmi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Thameur Oufini",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymeb Ben Zaied",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Haykeul Taleb",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Jasser Aifi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ali Ghrab",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Pape Mamour Diallo",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Senegal",
+        "marketValue": "300K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Firas Ghouma",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Makrem Sghaier",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zied Bhar",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Laariadh",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Bouskaya",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghassen Mahersi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jassem Belkilani",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Lamjed Rjili",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "33",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kouni Khalfa",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "David Nyengue",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Cameroon",
+        "marketValue": "300K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moatez Chouchane",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Khalil Kassab",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zidane Labidi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Mokhtar Zidi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Cissoko",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Mauritania",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yakubu Sadik Abubakar",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Alseny Touré",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Guinea",
+        "marketValue": "50K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amir Tajouri",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghaith Bouchouicha",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Noomen Rahmani",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Achref Ben Dhiaf",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Garreb",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Jertila",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Sahli",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "France/Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yosri Dhiflaoui",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chinomso Onyemuchara",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Nigeria",
+        "marketValue": "50K €",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nwoke Kelechi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayen Mguig",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Metlaoui",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sami Helal",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "37",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Bechir Abbassi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Beji",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Telli",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Chaouch",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mahrez Tbarki",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssri Arfaoui",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Soufiane Mestari",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Morocco",
+        "marketValue": "225K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Tej Islem",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Werzli",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Moslem",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Jebali",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Hichri",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Khaled Hammami",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fares Neji",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Ferjani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Naceur Trabelsi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nabih Jilani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Ben Chrouda",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ricky Gneba",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Ivory Coast",
+        "marketValue": "400K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ojonugwa Adejoh",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Nigeria",
+        "marketValue": "350K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Traidi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Khaloui",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amor Traidi",
+        "position": "Right Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hedi Souid",
+        "position": "Right Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Achref Ghrissi",
+        "position": "Left Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houcine Mansour",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Iffia",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amanallah Ben Hamida",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Zouari",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Godwin Kalu",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Nigeria",
+        "marketValue": "350K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssouf Dao",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Ivory Coast",
+        "marketValue": "150K €",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nabih Hablani",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Seddik",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdelkader Gasmi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Victorino Polaco",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Angola",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Laroussi Attia",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Stade Tunisien",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Maktouf",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moatez Hanzouli",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kais Amdouni",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "38",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Allela",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "400K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Akermi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Doukali",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hani Amamou",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Farouk Bougatfa",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amanallah Mouelhi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Rehimi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamd Aziz Gasmi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Kchouk",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymen Amri",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bonaventure Fonseca",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Senegal",
+        "marketValue": "150K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Ben Othman",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "France/Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Issa Kane",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Senegal",
+        "marketValue": "-",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ibrahima Cissoko",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Senegal",
+        "marketValue": "300K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iyed Midani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Alaeddine Dridi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Ouni",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wassim Chihi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Chaabane",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Motez Nourani",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Momar Diop",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Senegal",
+        "marketValue": "175K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youcef Fellahi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Algeria",
+        "marketValue": "175K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Amri",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Olamilekan Nurudeen Ayinde",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Nigeria",
+        "marketValue": "150K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wahid Timi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zied Berrima",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Favour Onyemechi Adegbile",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Nigeria",
+        "marketValue": "10K €",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Omar Faty",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Senegal",
+        "marketValue": "-",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Marius Glo",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Togo",
+        "marketValue": "-",
+        "previousClub": "CA Bizertin",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Raed Gazzeh",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Lassad Hammami",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Karkouba",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Saber Ben Salah",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bacem Zemzem",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wael Salhi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Siraj Helal",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Souii",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salah Harrabi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iyed Touis",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Skander Bouaicha",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iyadh Akrout",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghazi Abderrazzak",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "39",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Lahbib Yeken",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "275K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jaouhar Ben Hassen",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Chaibi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Daniel Oboh",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ataa Akrout",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Junior Bida",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Cameroon",
+        "marketValue": "350K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Khemais Maaouani",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "M'Ghezzi Bakhouche Abdelouahab",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Algeria",
+        "marketValue": "75K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jassem Abcha",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mustapha Samb",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Senegal",
+        "marketValue": "50K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Mohieddine Aloui",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussema Amri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Ben Mcharek",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia/France",
+        "marketValue": "250K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdallah Amri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Idriss Mhirsi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wael Abdi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Farouk Mimouni",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Borhane Hakimi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Zinedine Kada",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nassim Chachia",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Anas Bouatay",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Najd Dabbebi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ammar Belhaj Letaief",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Momodou Lamin Touray",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Gambia",
+        "marketValue": "-",
+        "previousClub": "ES Zarzis",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Bejaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Selim Rebai",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymen Mamni",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Hammami",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Kalai",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yassine Gharbi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Lakhal",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ali Yaakoubi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Ammar",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abderrahmane Rebai",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bangaly Cissé",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Guinea",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Seif Sabeur",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Azib",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Meddeb",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Agrebi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Hajji",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moujahed Fatnassi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Skander Neffati",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amine Zairi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Salmen Lakhdhar",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Zairi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yahia Mtiri",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bilel Jarrar",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Ben Ammar",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Koussay Fatnassi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Skander Hellali",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iyed Ben Hassine",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Sellami",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamdi Baklouti",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Cherif Camara",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Guinea",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghislain Mounguidé",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Central African Republic",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Idriss Liouan",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Boubacar",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Niger",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fahmi Maaouani",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "David Julado Dassakate",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Benin",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayhem Bouguella",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fraj Kayramani",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sékou Konaté",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Mali/Ethiopia",
+        "marketValue": "25K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Rayane Hamrouni",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdoulaye Kanou",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Mali",
+        "marketValue": "250K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fakhreddine Ouji",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Neffati",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Yassine Denden",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Benjamin Onyedikachi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ifeanyi Ogba",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Nigeria",
+        "marketValue": "-",
+        "previousClub": "Avenir Sportif de Gabès",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Achraf Krir",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chahine Smaoui",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Fatnassi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Saidi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Chérif Camara",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Guinea",
+        "marketValue": "300K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Islem Chelghoumi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Dhouibi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mehrez Ben Rajeh",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "30",
+        "nationality": "Tunisia",
+        "marketValue": "350K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Elyes Mejri",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Marzouki",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Hammami",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nassim Hasni",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Ouji",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Khaled Ben Oueda",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amine Melki",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Soumer",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Elyes Dhaoui",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Majd Hedhli",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Youssef Melki",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ayoub Nasri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sadate Abdoul Salam Miziyawa",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Benin/Togo",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Fadhli",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Alpha Sidibé",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Ivory Coast",
+        "marketValue": "50K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Achref Afli",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Houiji",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ali Ragoubi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "32",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Idriss Haboubi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Mahdhaoui",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "10K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ofufu Ibeh",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Nigeria/Portugal",
+        "marketValue": "150K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Haythem Mbarek",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Hedi Hadouchi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Bechir Hasni",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fares Labidi",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ali Omri",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Baha Cherni",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Naman Keita",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Mali",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Seif Jabri",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Bounjeh",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "10K €",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hassine Gafsi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Algeria",
+        "marketValue": "-",
+        "previousClub": "JS Kairouanaise",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdelkader Chouaya",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "31",
+        "nationality": "Tunisia",
+        "marketValue": "300K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Ben Attig",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jasser Tayeb",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nassim Khedher",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Souleymane Massa Ouattara",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Burkina Faso",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Najed Helali",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Rayane Yaakoubi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moatez Bidani",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Firas Ben Ammar",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "175K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ridouane Assane",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Niger",
+        "marketValue": "175K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Ameur Belghith",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iheb Ben Amor",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Nidhal Saïed",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "35",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hedi Trabelsi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hassen Jemal",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Letifi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "18",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Adem Hassine",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Sekrafi",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Amine Khadhraoui",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hakim Tka",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hamza Abdelkarim",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "25",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moukouba Diolvy Agdavain",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Congo",
+        "marketValue": "75K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ameur Jouini",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hassen Touati",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Bechraoui",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdelkader Mechri",
+        "position": "Right Winger",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Hosni Guezmir",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Naffati",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Khelifi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fayed Ben Hassine",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mahdi Fessi",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "EGS Gafsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Moez Ben Cherifia",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Nsibi",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Rayane Rabah",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Ben Boubaker",
+        "position": "Goalkeeper",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Hammami",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Mahouachi",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Houssem Touati",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussama Hichri",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Boucetta",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "150K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Iheb El Abed",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "125K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Firas Amri",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jasser Khmiri",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Babacar Diarra",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Senegal",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mouhamadou Konaté",
+        "position": "Center Defender",
+        "number": "-",
+        "birthDate": "24",
+        "nationality": "France/Senegal",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amanallah Mjahed",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "250K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Oussema Romdhani",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia",
+        "marketValue": "75K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amir Mosbahi",
+        "position": "Left Back",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "50K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ghassen Maatougui",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "200K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Helmi Jouidi",
+        "position": "Right Back",
+        "number": "-",
+        "birthDate": "28",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Patrick Russel Mbarga Ngankou",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Cameroon",
+        "marketValue": "200K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Abdoul Moumouni",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Niger",
+        "marketValue": "175K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Aymen Jemai",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Khalil Zid",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mondher Guesmi",
+        "position": "Defensive Midfielder",
+        "number": "-",
+        "birthDate": "34",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mohamed Aziz Belloumi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Amadou Darancom",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Niger",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mouad Ahmed",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Louni Azzouzi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Yacine El Kassah",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "26",
+        "nationality": "Tunisia/France",
+        "marketValue": "175K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Wajdi Issaoui",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Malek Mehri",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Anes Kordi",
+        "position": "Central Midfielder",
+        "number": "-",
+        "birthDate": "19",
+        "nationality": "Tunisia/Germany",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Mehdi Kamoun",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "27",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Mouati",
+        "position": "Attacking Midfielder",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Manoubi Haddad",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "29",
+        "nationality": "Tunisia/France",
+        "marketValue": "200K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sajed Ferchichi",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Fares Belaili",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Algeria",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Jihed Aloui",
+        "position": "Left Winger",
+        "number": "-",
+        "birthDate": "17",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ahmed Bouassida",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "21",
+        "nationality": "Tunisia",
+        "marketValue": "275K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Kebba Sowe",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Gambia",
+        "marketValue": "200K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Dhiaeddine Jebli",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "20",
+        "nationality": "Tunisia",
+        "marketValue": "100K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Sofiane Ben Mansour",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "22",
+        "nationality": "Tunisia",
+        "marketValue": "25K €",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Dawser Ben Yahmed",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "23",
+        "nationality": "Tunisia",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    },
+    {
+        "name": "Ekoure Mbaye Luther Duval",
+        "position": "Striker",
+        "number": "-",
+        "birthDate": "-",
+        "nationality": "Cameroon",
+        "marketValue": "-",
+        "previousClub": "AS Marsa",
+        "image": "/cards/pl.png"
+    }
+]
